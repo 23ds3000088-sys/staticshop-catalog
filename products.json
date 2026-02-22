@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "email": "23ds3000088@ds.study.iitm.ac.in",
+    "version": "2935aea7"
+  },
+  "products": [
+    {
+      "id": "prod-2935aea7-001",
+      "name": "Standard Item 1",
+      "category": "home",
+      "price": 273.66,
+      "stock": 112,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-2935aea7-002",
+      "name": "Standard Item 2",
+      "category": "home",
+      "price": 36.51,
+      "stock": 33,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-2935aea7-003",
+      "name": "Pro Item 3",
+      "category": "home",
+      "price": 374.35,
+      "stock": 182,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-2935aea7-004",
+      "name": "Basic Item 4",
+      "category": "sports",
+      "price": 267.64,
+      "stock": 7,
+      "rating": 1.8
+    },
+    {
+      "id": "prod-2935aea7-005",
+      "name": "Elite Item 5",
+      "category": "sports",
+      "price": 63.87,
+      "stock": 69,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-2935aea7-006",
+      "name": "Elite Item 6",
+      "category": "home",
+      "price": 440.77,
+      "stock": 67,
+      "rating": 2.9
+    },
+    {
+      "id": "prod-2935aea7-007",
+      "name": "Basic Item 7",
+      "category": "clothing",
+      "price": 29.08,
+      "stock": 155,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-2935aea7-008",
+      "name": "Pro Item 8",
+      "category": "electronics",
+      "price": 231.74,
+      "stock": 196,
+      "rating": 2.5
+    },
+    {
+      "id": "prod-2935aea7-009",
+      "name": "Elite Item 9",
+      "category": "electronics",
+      "price": 350.01,
+      "stock": 128,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-2935aea7-010",
+      "name": "Standard Item 10",
+      "category": "books",
+      "price": 294.58,
+      "stock": 38,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-2935aea7-011",
+      "name": "Premium Item 11",
+      "category": "home",
+      "price": 146.33,
+      "stock": 53,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-2935aea7-012",
+      "name": "Standard Item 12",
+      "category": "clothing",
+      "price": 187.85,
+      "stock": 105,
+      "rating": 1.8
+    },
+    {
+      "id": "prod-2935aea7-013",
+      "name": "Basic Item 13",
+      "category": "clothing",
+      "price": 206.73,
+      "stock": 191,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-2935aea7-014",
+      "name": "Standard Item 14",
+      "category": "electronics",
+      "price": 470.14,
+      "stock": 107,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-2935aea7-015",
+      "name": "Standard Item 15",
+      "category": "clothing",
+      "price": 212.19,
+      "stock": 182,
+      "rating": 4.6
+    }
+  ],
+  "aggregations": {
+    "books": {
+      "count": 1,
+      "inventoryValue": 11194.04
+    }
+  }
+}
